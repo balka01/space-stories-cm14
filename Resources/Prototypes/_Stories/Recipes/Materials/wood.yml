@@ -1,0 +1,8 @@
+- type: rmcConstruction
+  id: CMChairWoodBuild
+  name: деревянный стул 
+  prototype: CMChairWood
+  noRotate: false
+  doAfterTime: 1
+  materialCost: 2
+  restrictedTags: [RMCSeat]
